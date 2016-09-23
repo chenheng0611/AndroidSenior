@@ -1,0 +1,1 @@
+include ':app', ':day1_database', ':day1_ormlitedemo', ':day1_greendao'

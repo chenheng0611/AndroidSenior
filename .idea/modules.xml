@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidSenior.iml" filepath="$PROJECT_DIR$/AndroidSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_database/day1_database.iml" filepath="$PROJECT_DIR$/day1_database/day1_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_greendao/day1_greendao.iml" filepath="$PROJECT_DIR$/day1_greendao/day1_greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" filepath="$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" />
+    </modules>
+  </component>
+</project>
