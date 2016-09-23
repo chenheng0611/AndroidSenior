@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day1_butterknife" />
             <option value="$PROJECT_DIR$/day1_database" />
             <option value="$PROJECT_DIR$/day1_greendao" />
             <option value="$PROJECT_DIR$/day1_ormlitedemo" />
@@ -19,6 +20,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day1_butterknife" />
             <option value="$PROJECT_DIR$/day1_database" />
             <option value="$PROJECT_DIR$/day1_greendao" />
             <option value="$PROJECT_DIR$/day1_ormlitedemo" />

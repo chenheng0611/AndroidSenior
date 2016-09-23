@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidSenior.iml" filepath="$PROJECT_DIR$/AndroidSenior.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_butterknife/day1_butterknife.iml" filepath="$PROJECT_DIR$/day1_butterknife/day1_butterknife.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_database/day1_database.iml" filepath="$PROJECT_DIR$/day1_database/day1_database.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_greendao/day1_greendao.iml" filepath="$PROJECT_DIR$/day1_greendao/day1_greendao.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" filepath="$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" />
