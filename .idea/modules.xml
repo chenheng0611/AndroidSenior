@@ -6,8 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_butterknife/day1_butterknife.iml" filepath="$PROJECT_DIR$/day1_butterknife/day1_butterknife.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_database/day1_database.iml" filepath="$PROJECT_DIR$/day1_database/day1_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_download/day1_download.iml" filepath="$PROJECT_DIR$/day1_download/day1_download.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_greendao/day1_greendao.iml" filepath="$PROJECT_DIR$/day1_greendao/day1_greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_myknife/day1_myknife.iml" filepath="$PROJECT_DIR$/day1_myknife/day1_myknife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_okhttp/day1_okhttp.iml" filepath="$PROJECT_DIR$/day1_okhttp/day1_okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" filepath="$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1_retrofit/day1_retrofit.iml" filepath="$PROJECT_DIR$/day1_retrofit/day1_retrofit.iml" />
     </modules>
   </component>
 </project>
