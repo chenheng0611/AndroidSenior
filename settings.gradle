@@ -1,1 +1,1 @@
-include ':app', ':day1_database', ':day1_ormlitedemo', ':day1_greendao', ':day1_butterknife', ':day1_myknife', ':day1_okhttp', ':day1_download', ':day1_retrofit'
+include ':app', ':day1_database', ':day1_ormlitedemo', ':day1_greendao', ':day1_butterknife', ':day1_myknife', ':day1_okhttp', ':day1_download', ':day1_retrofit', ':day3_searchhistroy', ':day2_recyclerview'

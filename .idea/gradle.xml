@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/day1_okhttp" />
             <option value="$PROJECT_DIR$/day1_ormlitedemo" />
             <option value="$PROJECT_DIR$/day1_retrofit" />
+            <option value="$PROJECT_DIR$/day2_recyclerview" />
+            <option value="$PROJECT_DIR$/day3_searchhistroy" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

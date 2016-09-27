@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/day1_okhttp/day1_okhttp.iml" filepath="$PROJECT_DIR$/day1_okhttp/day1_okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" filepath="$PROJECT_DIR$/day1_ormlitedemo/day1_ormlitedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1_retrofit/day1_retrofit.iml" filepath="$PROJECT_DIR$/day1_retrofit/day1_retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_recyclerview/day2_recyclerview.iml" filepath="$PROJECT_DIR$/day2_recyclerview/day2_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day3_searchhistroy/day3_searchhistroy.iml" filepath="$PROJECT_DIR$/day3_searchhistroy/day3_searchhistroy.iml" />
     </modules>
   </component>
 </project>
